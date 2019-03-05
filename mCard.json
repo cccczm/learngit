@@ -1,0 +1,18 @@
+{
+    "status": 0,
+    "msg": null,
+    "data": {
+        "id": 1,
+        "cardId": "cxMusic1123",
+        "userId": "123",
+        "beginTime": "2018-10-22 17:33:32",
+        "endTime": "2018-10-29 19:33:32",
+        "registerTime": "2018-12-03 21:03:26",
+        "amount": 399,
+        "agentName": "小网",
+        "musActivityName": "双十二",
+        "musicName": "吉他",
+        "stoId": 1
+    },
+    "success": true
+}

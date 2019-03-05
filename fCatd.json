@@ -1,0 +1,18 @@
+{
+    "status": 0,
+    "msg": null,
+    "data": {
+        "id": 6,
+        "cardId": "cxFit1123",
+        "userId": "123",
+        "beginTime": "2018-10-22 17:33:32",
+        "endTime": "2018-10-29 19:33:32",
+        "registerTime": "2018-12-02 20:24:20",
+        "amount": 399,
+        "agentName": "小网",
+        "fitActivityName": "双11",
+        "fitnessName": "月卡",
+        "stoId": null
+    },
+    "success": true
+}
