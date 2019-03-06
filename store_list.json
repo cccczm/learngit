@@ -1,0 +1,29 @@
+{
+    "status": 0,
+    "msg": null,
+    "data": [
+        {
+            "id": 2,
+            "storeId": "2",
+            "name": "韩山分店2",
+            "address": "韩山10楼",
+            "phone": "19516461111",
+            "registerTime": "2018-10-25 16:04:34",
+            "updateTime": null,
+            "isDelete": null,
+            "note": "没有"
+        },
+        {
+            "id": 3,
+            "storeId": "gz0001",
+            "name": "广州店",
+            "address": null,
+            "phone": "0596-3333666",
+            "registerTime": "2018-11-16 15:18:18",
+            "updateTime": null,
+            "isDelete": null,
+            "note": "1000"
+        }
+    ],
+    "success": true
+}
